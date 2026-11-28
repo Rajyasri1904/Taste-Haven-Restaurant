@@ -1,4 +1,6 @@
+NAME-RAJYASRI ,SECTION-3,ROLL NO.-N26V01A0252 
 # Taste-Haven-Restaurant
+DEPLOY LINK- https://tastehavenrestaurantwebsite-1.vercel.app
 🍽️ Taste Haven – Restaurant Website
 
 A beautifully designed and responsive restaurant website created using HTML and CSS. Taste Haven provides an elegant online presence for a restaurant, showcasing delicious food, special offers, customer reviews, and contact information in an attractive layout.
